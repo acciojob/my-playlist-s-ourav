@@ -27,12 +27,13 @@ h1,h2{
 
 }
 video{
-	 margin-left:5%; 
+	margin-left:5%; 
 	width:90%;
 	height:70%
 }
 audio{
-	 margin-left:30%; 
+	margin-left:5%; 
+	width:90%;
 }
 body{
 	background-color:rgb(204,204,204);
