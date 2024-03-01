@@ -26,6 +26,9 @@ h1,h2{
 	border-radius:10px;
 
 }
+.player_two{
+	background-color: rgb(255,255,255);
+}
 video{
 	margin-left:5%; 
 	width:90%;
